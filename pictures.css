@@ -193,9 +193,9 @@ color: darkgreen;
     display: none;
 }
 #box{
-    border: 20px soild yellow;
+/*     border: 20px soild yellow; */
     width:50wh;
-    height: 100vh;
+    height:50vh;
     background-color: aquamarine;
     display: flex;
 /*     gap: 50px; */
