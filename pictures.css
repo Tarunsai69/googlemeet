@@ -194,12 +194,12 @@ color: darkgreen;
 }
 #box{
     border: 20px soild yellow;
-    width: 1510px;
-    height: 70px;
+    width:50wh;
+    height: 100vh;
     background-color: aquamarine;
     display: flex;
-    gap: 50px;
-    justify-content: center;
+/*     gap: 50px; */
+    justify-content:space-between;
     position:relative;
     top:1px;
 }
