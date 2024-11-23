@@ -195,7 +195,7 @@ color: darkgreen;
 #box{
 /*     border: 20px soild yellow; */
     width:50wh;
-    height:50vh;
+/*     height:50vh; */
     background-color: aquamarine;
     display: flex;
 /*     gap: 50px; */
